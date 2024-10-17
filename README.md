@@ -1,1 +1,1 @@
-# Practice-AIDev
+# My first repository for AI Project
