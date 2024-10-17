@@ -1,1 +1,1 @@
-
+client=OpenAI(api-key="")
